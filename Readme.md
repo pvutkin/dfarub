@@ -1,5 +1,5 @@
 DataFlow Analytics - B2B Landing Page
-<div align="center"> <img src="https://via.placeholder.com/1200x600/0A2D5C/FFFFFF?text=Professional+B2B+Landing+Page" alt="DataFlow Analytics Preview">
+<div align="center"> <img src="https://via.placeholder.com/1200x600/0A2D5C/FFFFFF?text=Professional+B2B+Landing+Page" alt="Data Flow Analytics Preview">
 HTML5
 CSS3
 JavaScript
